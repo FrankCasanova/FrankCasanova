@@ -1,4 +1,4 @@
-### Hey! I'm [@frankcasanova_](https://twitter.com/frankcasanova_) 👋
+### I'm [@frankcasanova_](https://twitter.com/frankcasanova_) 👋
 
 I'm a software developer from Spain.
 
