@@ -6,7 +6,7 @@ I like to build things like a distributed systems, SQL and NoSQL databases, Dock
 
 You can find me on:
 
-* [Twitter as @tiangolo](https://twitter.com/frankcasanov_)
+* [Twitter as @frankcasanova](https://twitter.com/frankcasanov_)
 * [GitHub as @frankcasanova (you are here)](https://github.com/frankcasanova)
 * [LinkedIn](https://www.linkedin.com/in/frank-casanova-8574b314b/)
 
