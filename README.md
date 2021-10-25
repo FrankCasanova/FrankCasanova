@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hey! I'm [@frankcasanova_](https://twitter.com/frankcasanova_) 👋
 
-<!--
-**FrankCasanova/FrankCasanova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer from Spain.
 
-Here are some ideas to get you started:
+I like to build things like a distributed systems, SQL and NoSQL databases, Docker, Python, modern backend APIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can find me on:
+
+* [Twitter as @tiangolo](https://twitter.com/frankcasanov_)
+* [GitHub as @frankcasanova (you are here)](https://github.com/frankcasanova)
+* [LinkedIn](https://www.linkedin.com/in/frank-casanova-8574b314b/)
+
+## :bar_chart: Some stats of my profile
+
+[![Keshav's github stats](https://github-readme-stats.vercel.app/api?username=frankcasanova&show_icons=true&theme=merko)](https://github.com/frankcasanova/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frankcasanova&layout=compact&theme=merko)](https://github.com/frankcasanova/github-readme-stats)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=frankcasanova)
