@@ -9,6 +9,7 @@ You can find me on:
 * [Twitter as @frankcasanova_](https://twitter.com/frankcasanova_)
 * [GitHub as @frankcasanova (you are here)](https://github.com/frankcasanova)
 * [LinkedIn](https://www.linkedin.com/in/frank-casanova-8574b314b/)
+* [CV](https://frankcasanova.github.io/CV/)
 
 ## :bar_chart: Some stats of my profile
 
