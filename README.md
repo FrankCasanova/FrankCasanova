@@ -32,8 +32,7 @@ I like to build things like a distributed systems, SQL and NoSQL databases, Dock
 
 You can find me on:
 
-* [Twitter as @frankcasanova_](https://twitter.com/frankcasanova_)
-* [GitHub as @frankcasanova (you are here)](https://github.com/frankcasanova)
+* [Website](https://frank-casanova.vercel.app/)
 * [LinkedIn](https://www.linkedin.com/in/frankcasanova-/)
 
 
