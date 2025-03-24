@@ -1,4 +1,4 @@
-### I'm [@frankcasanova_](https://twitter.com/frankcasanova_) 👋 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=frankcasanova)
+### I'm [@frankcasanova_](https://linkedin.com/in/frankcasanova-) 👋 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=frankcasanova)
 
 I'm a software developer from Spain.
 
